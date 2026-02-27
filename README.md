@@ -1,5 +1,9 @@
 # Automação de Infraestrutura de Usuários no Linux 🐧
 
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
+
 Este é um projeto prático desenvolvido durante meus estudos de Linux. O objetivo é automatizar a criação e configuração de um ambiente simulado de uma empresa, provisionando usuários, grupos, diretórios e definindo políticas de permissões estritas.
 
 ##  Sobre o Projeto
